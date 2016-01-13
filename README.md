@@ -1,4 +1,4 @@
 # skeleton
 Description:
 
-A dead simple, responsive boilerplate.
+Responsive boilerplate.
